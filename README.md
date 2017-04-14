@@ -9,5 +9,6 @@ why can I not do that properly the first time?
 and again with a syntax error\n
 I must be an idiot
 and valid getHMAC function
-
+<hr>
 test
+<hr>

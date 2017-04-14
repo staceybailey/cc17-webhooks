@@ -3,4 +3,4 @@ hello world again
 Now with no authorization required!
 Web Stream in place
 test 2.  guessing missing ACLs in target table.
-
+and now using the proper variable name
